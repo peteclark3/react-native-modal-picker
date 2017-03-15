@@ -28,6 +28,7 @@ export default StyleSheet.create({
     },
 
     cancelContainer: {
+        width:width*0.8,
         left:width*0.1,
         top:(height-OPTION_CONTAINER_HEIGHT)/2 + 10
     },
